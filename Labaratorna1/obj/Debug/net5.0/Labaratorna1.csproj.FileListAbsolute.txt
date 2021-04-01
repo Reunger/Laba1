@@ -1,0 +1,16 @@
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\obj\Debug\net5.0\Labaratorna1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\obj\Debug\net5.0\Labaratorna1.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\obj\Debug\net5.0\Labaratorna1.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\obj\Debug\net5.0\Labaratorna1.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\bin\Debug\net5.0\Labaratorna1.exe
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\bin\Debug\net5.0\Labaratorna1.deps.json
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\bin\Debug\net5.0\Labaratorna1.runtimeconfig.json
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\bin\Debug\net5.0\Labaratorna1.runtimeconfig.dev.json
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\bin\Debug\net5.0\Labaratorna1.dll
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\bin\Debug\net5.0\ref\Labaratorna1.dll
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\bin\Debug\net5.0\Labaratorna1.pdb
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\obj\Debug\net5.0\Labaratorna1.dll
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\obj\Debug\net5.0\ref\Labaratorna1.dll
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\obj\Debug\net5.0\Labaratorna1.pdb
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\obj\Debug\net5.0\Labaratorna1.genruntimeconfig.cache
+C:\Users\Михаил\source\repos\Labaratorna1\Labaratorna1\obj\Debug\net5.0\Labaratorna1.csprojAssemblyReference.cache
